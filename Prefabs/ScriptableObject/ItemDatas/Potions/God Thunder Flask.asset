@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4dab06c5eea9e84a9280aab9e566e4a, type: 3}
+  m_Name: God Thunder Flask
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: God Thunder Flask
+  icon: {fileID: -1550959131, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  DropChance: 0
+  potionCoolDown: 100
+  itemEffects:
+  - {fileID: 11400000, guid: d84b9631fe151ab46b6e800854461c54, type: 2}

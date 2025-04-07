@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94fdd4b68783ce84d94271395c0627d9, type: 3}
+  m_Name: ThornArmor
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Thorn Armor
+  icon: {fileID: 1781212769, guid: bdeaeacf91e805f449e7fa66d480d644, type: 3}
+  DropChance: 0
+  craftingMaterials:
+  - data: {fileID: 11400000, guid: a04a2ce7c6914824bab8aed971bdd694, type: 2}
+    stackSize: 8
+  - data: {fileID: 11400000, guid: ae46e020eec0f9c4aa5257ebaa5663df, type: 2}
+    stackSize: 8
+  equipmentType: 1
+  itemEffects:
+  - {fileID: 11400000, guid: f2888335eb7963341ac999e2efa4040c, type: 2}
+  strength_Modifer: 0
+  agility_Modifer: 0
+  intelligence_Modifer: 0
+  vitality_Modifer: 0
+  damage_Modifer: 0
+  critChance_Modifer: 0
+  critPower_Modifer: 0
+  maxHealth_Modifer: 0
+  armor_Modifer: 0
+  evasion_Modifer: 0
+  magicResistance_Modifer: 0
+  fireDamage_Modifer: 0
+  iceDamage_Modifer: 0
+  lightingDamage_Modifer: 0

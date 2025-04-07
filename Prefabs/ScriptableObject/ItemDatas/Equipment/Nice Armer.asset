@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94fdd4b68783ce84d94271395c0627d9, type: 3}
+  m_Name: Nice Armer
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Nice Armer
+  icon: {fileID: -460786257, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  DropChance: 12.9
+  equipmentType: 1
+  strength_Modifer: 0
+  agility_Modifer: 0
+  intelligence_Modifer: 0
+  vitality_Modifer: 0
+  damage_Modifer_Modifer: 0
+  critChance_Modifer: 0
+  critPower_Modifer: 0
+  maxHealth_Modifer: 20
+  armor_Modifer: 5
+  evasion_Modifer: 0
+  magicResistance_Modifer: 0
+  fireDamage_Modifer: 0
+  iceDamage_Modifer: 0
+  lightingDamage_Modifer: 0
+  craftingMaterials: []
